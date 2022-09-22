@@ -12,7 +12,7 @@ You can try out this application by cloning this repository and executing yarn i
 git clone https://github.com/Vanutsantos/frontend-challenge.git
 cd frontend-challenge
 yarn install
-yarn started
+yarn start
 ```
 
 The repository will be cloned on your enviroment so you can execute the project. It should run on localhost, on the available port.
